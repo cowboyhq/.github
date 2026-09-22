@@ -33,10 +33,15 @@ We do not currently run a paid bug bounty. We will credit you if you would like
 that, and we will not pursue action against anyone who follows the guidance above
 in good faith.
 
-## Where else to find this
+## The full policy
 
-The same contact is published at
-[cowboy.com/.well-known/security.txt](https://cowboy.com/.well-known/security.txt)
-and on our other public hosts, per RFC 9116. If you find a Cowboy address that
-disagrees with this one, this file is the current one - and we would like to know
-about the stale copy too.
+This file is the short version, the one GitHub renders on our repositories. The
+authoritative policy - scope, what we ask of you, and what to expect after you
+report - is at
+**[cowboy.com/pages/security-policy](https://cowboy.com/pages/security-policy)**,
+and the same contact is published in
+[our security.txt](https://cowboy.com/.well-known/security.txt) on each public
+host, per RFC 9116.
+
+If you find a Cowboy address that disagrees with this one, the page above is the
+current one, and we would like to hear about the stale copy too.

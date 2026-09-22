@@ -9,9 +9,16 @@ means changing it once, here.
 
 ## What lives here
 
-- **[SECURITY.md](SECURITY.md)** - how to report a vulnerability to Cowboy, and
-  what to expect after you do. Mirrors the contact published at
-  [cowboy.com/.well-known/security.txt](https://cowboy.com/.well-known/security.txt).
+- **[SECURITY.md](SECURITY.md)** - the short version of how to report a
+  vulnerability to Cowboy, linking to the authoritative policy at
+  [cowboy.com/pages/security-policy](https://cowboy.com/pages/security-policy).
+  The same contact is published in
+  [cowboy.com/.well-known/security.txt](https://cowboy.com/.well-known/security.txt)
+  on each public host.
+
+  Three places carry the contact and they have to agree: the page, the
+  security.txt files, and this file. Change one, change all three. The page is
+  the authority - do not let this file grow back into a second full copy.
 
 ## What does not
 
